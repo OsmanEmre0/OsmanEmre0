@@ -1,4 +1,4 @@
-[![MasterHead](https://www.iamthecode.org/wp-content/uploads/2021/03/florian-olivo-4hbJ-eymZ1o-unsplash-scaled-e1616631053918.jpg)
+![MasterHead](https://www.iamthecode.org/wp-content/uploads/2021/03/florian-olivo-4hbJ-eymZ1o-unsplash-scaled-e1616631053918.jpg)
 <h1 align="center">Hi 👋, I'm Osman Emre Sarıahmetoğlu</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
