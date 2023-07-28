@@ -1,4 +1,4 @@
-![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--rTwykorI--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://thepracticaldev.s3.amazonaws.com/i/acj7wmyd64eku8uh45f9.jpeg)
+![MasterHead](https://etudestech.com/wp-content/uploads/2022/07/javascript-langage-de-programmation-2022.jpeg)
 <h1 align="center">Hi 👋, I'm Osman Emre Sarıahmetoğlu</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
