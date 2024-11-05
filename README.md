@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osmanemre0&label=Profile%20views&color=0e75b6&style=flat" alt="osmanemre0" /> </p>
 
-- 🔭 I’m currently working on [Osmanli Antik](https://github.com/OsmanEmre0/osmanli-antik.git)
+- 🔭 e-commerce site that I have finished [Osmanli Antik](https://github.com/OsmanEmre0/osmanli-antik.git)
 
 - 📫 How to reach me **osariahnetoglu@gmail.com**
 
